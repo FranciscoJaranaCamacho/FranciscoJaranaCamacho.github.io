@@ -1,7 +1,7 @@
 ---
 layout: style
 
-title: Curriculum Francisco Jarana
+title: **Curriculum Francisco Jarana**
 ---
 
 hola
