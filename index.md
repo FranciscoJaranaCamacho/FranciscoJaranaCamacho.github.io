@@ -1,6 +1,7 @@
 ---
 layout: index.html
 
-title: Página web de Francisco Jarana Camacho
+title: Francisco
 ---
 Hello World!
+contenido patrocinado por cigarrillos Laramie
