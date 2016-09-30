@@ -3,4 +3,8 @@ layout: index
 
 title: Francisco
 ---
-Hello World!
+##Bienvenidos a mi página web.
+
+En el siguiente enlace se puede acceder a mi currículum.
+
+[curriculum](about)
