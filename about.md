@@ -5,6 +5,7 @@ title: Curriculum
 ---
 * ### Nombre y Apellidos:
 Francisco Jarana Camacho
+
 Técnico Superior de Administración de Sistemas Informáticos y Redes
 
 * ### Formación Técnica:
