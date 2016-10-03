@@ -3,21 +3,21 @@ layout: index
 
 title: Curriculum
 ---
-* Nombre y Apellidos:
+* ### Nombre y Apellidos:
 Francisco Jarana Camacho
 
-* Formación Técnica:
+* ### Formación Técnica:
 
 
-###Experiencia Laboral
+* ### Experiencia Laboral
 
 
-###Idiomas
+* ### Idiomas
 
 
-###Cursos
+* ### Cursos
 
 
-###Información adicional
+* ### Información adicional
 
 [volver](index)
