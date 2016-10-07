@@ -3,7 +3,7 @@ layout: index
 
 title: Curriculum
 ---
-* ### Nombre y Apellidos:
+* ### Nombre y Apellidos: 
 Francisco Jarana Camacho
 
 * ### Formación Técnica:
@@ -12,16 +12,9 @@ Técnico Superior de Administración de Sistemas Informáticos y Redes
   * Administración y gestión de sistemas operativos GNU/Linux basados en Debian y Windows
   * Administración y gestión de bases de datos (ORACLE, MySQL, PostgreSQL y MongoDB)
   * Manejo de Git, GitHub y Openshift
-  * 
-
-* ### Experiencia Laboral
-
 
 * ### Idiomas
 Inglés nivel B2 demostrable
-
-* ### Cursos
-
 
 * ### Información adicional
   * Carnet de conducir tipo B
